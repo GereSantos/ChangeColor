@@ -1,0 +1,10 @@
+body{
+    background-color: aquamarine;
+}
+
+@media only screen and (max-width:500px){
+    body{
+        background-color: orange;
+        text-align: 'Responsividade Aplicada!';
+    }
+}
